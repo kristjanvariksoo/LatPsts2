@@ -5,6 +5,8 @@
 ## Hosting backend
 `python server.py`
 
+![logo](LatPost_Logo_noBG.png)
+
 ## Vision overview
 We envision the future of latvian post as empowerment of both the client and the postman.
 
